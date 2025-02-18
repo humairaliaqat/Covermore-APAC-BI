@@ -1,2 +1,2 @@
-# BHDWH02
-Actuary and Pricing Server
+# Covermore Business Intelligence APAC
+APAC BI Code Repository
